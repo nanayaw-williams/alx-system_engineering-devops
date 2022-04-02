@@ -4,3 +4,5 @@ chgrp school hello
 chgrp school hello
 #!/bin/dash
 chgrp school hello
+#!/bin/bash
+chgrp school hello
